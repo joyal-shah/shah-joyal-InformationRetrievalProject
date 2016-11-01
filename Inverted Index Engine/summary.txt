@@ -1,0 +1,8 @@
+Model		AveragePrecision
+OkapiTF		0.1811
+BM25		0.2426
+Laplace		0.1857
+Proximity   0.1421
+
+Index Type: Stemmed Without Stopwords
+Index Size: 152 M
